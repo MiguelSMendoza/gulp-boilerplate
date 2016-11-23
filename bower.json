@@ -1,0 +1,20 @@
+{
+  "name": "gulp-boilerplate",
+  "description": "Código básico para iniciar una aplicación web con node, bower y gulp",
+  "main": "index.js",
+  "authors": [
+    "Miguel S. Mendoza"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}

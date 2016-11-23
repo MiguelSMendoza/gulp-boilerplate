@@ -1,0 +1,31 @@
+{
+  "name": "gulp-boilerplate",
+  "version": "1.0.0",
+  "description": "Código básico para iniciar una aplicación con node, bower y gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://MiguelSMendoza@bitbucket.org/marpadalim/calculabaremo.git"
+  },
+  "author": "Miguel S. Mendoza",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/marpadalim/calculabaremo#readme",
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-inject": "^4.1.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-webserver": "^0.9.1",
+    "jshint": "^2.9.4",
+    "wiredep": "^4.0.0"
+  }
+}
